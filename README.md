@@ -1,6 +1,9 @@
 # esp32-donut
 Donut.
 
+# Parts
+This is an ESP32 dev board and a SSD1306 OLED display soldered onto a small PCB board. In total, parts must have cost around $8-10.
+
 # Video
 https://youtu.be/h8ibEiQqbO8
 
